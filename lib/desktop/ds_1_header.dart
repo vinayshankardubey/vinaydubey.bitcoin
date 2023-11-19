@@ -22,9 +22,12 @@ class DS1Header extends StatelessWidget {
             DataValues.headerName,
             style: AppThemeData.darkTheme.textTheme.displayMedium,
           ),
-          SelectableText(
-            DataValues.headerTitle,
-            style: AppThemeData.darkTheme.textTheme.titleLarge,
+          Container(
+            width: 600.0,
+            child: SelectableText(
+              DataValues.headerTitle,
+              style: AppThemeData.darkTheme.textTheme.titleLarge,
+            ),
           ),
           const SizedBox(height: 20.0),
           const SocialProfiles(),

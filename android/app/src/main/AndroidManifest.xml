@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dev.dileepabandara.dileepabandara_dev">
+    package="bitcoin.vinaydubey">
    <application
         android:label="dileepabandara_dev"
         android:name="${applicationName}"

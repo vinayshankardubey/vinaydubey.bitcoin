@@ -1,38 +1,38 @@
 class DataValues {
   // About App
-  static const String appName = 'Dileepa Bandara';
-  static const String appNameLong = 'dileepabandara.dev';
+  static const String appName = 'Vinay Shankar Dubey';
+  static const String appNameLong = 'vinaydubey.bitcoin';
   static const String appDescription =
-      'Hello there, I\'m Dileepa Bandara. This is my personal website, which contains public information that anyone can find on the internet.';
+      'Hello there, I\'m Vinay Shankar Dubey. This is my personal website, which contains public information that anyone can find on the internet.';
   static const String appDeveloper = 'Dileepa Bandara';
   static const String appPackage = 'dev.dileepabandara.dileepabandara_dev';
   static const String appVersion = '1.1.2';
   static const String appBuildNumber = '1';
 
   // External links
-  static Uri devURL = Uri.parse('https://dileepabandara.dev');
+  static Uri devURL = Uri.parse('https://vinaydubey.bitcoin');
   static Uri hashnodeURL = Uri.parse('https://hashnode.com/@dileepabandara');
-  static Uri githubURL = Uri.parse('https://github.com/dileepabandara');
-  static Uri linkedinURL = Uri.parse('https://linkedin.com/in/dileepabandara');
-  static Uri twitterURL = Uri.parse('https://twitter.com/_dileepabandara');
+  static Uri githubURL = Uri.parse('https://github.com/vinayshankardubey');
+  static Uri linkedinURL = Uri.parse('https://www.linkedin.com/in/vinayshankardubey/');
+  static Uri twitterURL = Uri.parse('https://twitter.com/vina_yas');
   static Uri youtubeURL = Uri.parse('https://youtube.com/@flutterscope');
   static Uri telegramURL = Uri.parse('https://t.me/dileepabandara');
   static Uri facebookURL = Uri.parse('https://facebook.com/0dileepabandara');
-  static Uri instagramURL = Uri.parse('https://instagram.com/_dileepabandara');
+  static Uri instagramURL = Uri.parse('https://www.instagram.com/vina_yas/');
   static Uri repoURL =
-      Uri.parse('https://github.com/dileepabandara/dileepabandara.dev');
-  static Uri biographyURL = Uri.parse('https://biography.dileepabandara.dev');
-  static Uri profilesURL = Uri.parse('https://profile.dileepabandara.dev');
-  static Uri toolkitURL = Uri.parse('https://toolkit.dileepabandara.dev');
+      Uri.parse('https://github.com/vinayshankardubey');
+  static Uri biographyURL = Uri.parse('https://www.linkedin.com/in/vinayshankardubey/');
+  static Uri profilesURL = Uri.parse('https://www.linkedin.com/in/vinayshankardubey/');
+  static Uri toolkitURL = Uri.parse('https://www.linkedin.com/in/vinayshankardubey/');
   static Uri volunteeringURL =
-      Uri.parse('https://volunteer.dileepabandara.dev');
-  static Uri technotesURL = Uri.parse('https://techdiary.dileepabandara.dev');
-  static Uri lateNightStudentURL = Uri.parse('https://blog.dileepabandara.dev');
+      Uri.parse('https://www.linkedin.com/in/vinayshankardubey/');
+  static Uri technotesURL = Uri.parse('https://www.linkedin.com/in/vinayshankardubey/');
+  static Uri lateNightStudentURL = Uri.parse('https://www.linkedin.com/in/vinayshankardubey/');
 
   // Header
   static const String headerGreetings = 'Hello, World! I\'m';
-  static const String headerName = 'Dileepa Bandara';
-  static const String headerTitle = 'Student | Developer | Volunteer';
+  static const String headerName = 'Vinay Shankar Dubey';
+  static const String headerTitle = 'Aspiring Data Analyst | Exploring Web3 & Blockchain | Building @Eralysis.com & @Mindchant.com, Developing Flutter Apps | Youtube 23K Subs';
 
   // Navigation Bar
   static const String navBarAboutMe = 'About Me';
@@ -42,38 +42,46 @@ class DataValues {
   static const String navBarTechNotes = 'TechNotes';
   static const String navBarContactMe = 'Contact Me';
 
+  static String aboutMeBiographyDescription = """
+    I'm a Bachelor of Arts graduate with Economics, when I'm sure about something, I go for it with full intensity.
+    I still remember those conversations with my friends about how much Data Science and Analytics fascinate me,
+    and the more I went into it, the more it has fascinated me.
+
+    Currently, I am enjoying a wonderful training opportunity under the amazing mentorship of Prepleaf with the acquisition of Masai School.
+    Every day is a great learning experience for me, and I feel it is helping me to become a better Analyst every day.
+
+    I've proficient knowledge in Probability, Statistics, and Analytics with an excellent understanding of the key skills and tools such as Python, SQL, Tableau, MS Excel, Predictive Modeling, Data Visualization, Pandas, NumPy, Scikit-learn, Machine Learning Techniques, Multivariable Calculus, etc.
+
+    I'm passionate about building challenging projects and excelling in their development because I get to learn a lot from it.
+    I'm looking forward to creating a mark for myself in the field of Analytics and Data Science.
+  """;
   // About me
   static const String aboutMeTitle = 'About Me';
   static const String aboutMeDescription =
       'This website includes my public details, which anyone can find on the internet. So if you are looking for my personal information, such as my bio, education, experience, and other things that may make you wonder, feel free to scroll up and down to find out about me.';
   static const String aboutMeBiographyTitle = 'Biography';
-  static const String aboutMeBiographyDescription =
-      'Hi there! I\'m a computing student, solution developer, and community volunteer. I believe that personal growth and learning are essential for success, and I have dedicated my life to achieving both. '
-      'Because of that, I\'m always looking to learn new things and apply them to whatever I\'m doing. '
-      'Technology is always igniting my passion for the positive impact it can have, and I\'m excited to continue growing my skills and knowledge, so I started my career as a techie. '
-      'In addition to my studies, I\'m also passionate about giving back to various communities and helping others, which is why I volunteer my time to help out whenever I can, and I believe that this work is vital in helping to create a better future for everyone.';
+
   static const String aboutMeFullNameTitle = 'Full Name';
   static const String aboutMeFullNameDescription =
-      'Jayasundara Mudiyanselage Dileepa Lakmal Bandara';
+      'Vinay Shankar Dubey';
   static const String aboutMeNwITitle = 'Name with Initials';
   static const String aboutMeNwIDescription = 'J.M. Dileepa Lakmal Bandara';
   static const String aboutMeFnLTitle = 'First and Last Name';
-  static const String aboutMeFnLDescription = 'Dileepa Bandara';
+  static const String aboutMeFnLDescription = 'Vinay Dubey';
   static const String aboutMeDobTitle = 'Birthday';
-  static const String aboutMeDobDescription = 'July 24, 1997';
+  static const String aboutMeDobDescription = 'May 2, 2000';
   static const String aboutMeLanguageTitle = 'Languages';
-  static const String aboutMeLanguageDescription = 'Sinhala (Native)\n'
+  static const String aboutMeLanguageDescription = 'Hindi (Native)\n'
       'English (Professional)';
   static const String aboutMeNationalityTitle = 'Nationality';
-  static const String aboutMeNationalityDescription = 'Sri Lankan';
+  static const String aboutMeNationalityDescription = 'Indian';
   static const String aboutMeGenderTitle = 'Gender';
   static const String aboutMeGenderDescription = 'Male (He/Him/His)';
   static const String aboutMeLocationTitle = 'Current Locations';
   static const String aboutMeLocationDescription =
-      'Kurunegala, Sri Lanka\nColombo, Sri Lanka';
+      'Noida, uttar Pradesh';
   static const String aboutMeWorkDomainTitle = 'Working Domain';
-  static const String aboutMeWorkDomainDescription = 'dileepabandara.dev\n'
-      '08:00 - 18:00 (GMT+5:30)';
+  static const String aboutMeWorkDomainDescription = 'vinaydubey.bitcoin';
   static const String aboutMeStudentTitle = 'Computing Student';
   static const String aboutMeStudentDescription =
       'I study computing technologies as a student by focusing on learning how computer systems work, from the physical (hardware) to the apps and programs (software) that users interact with, and I learn all about critical thinking, problem-solving, and analytical research, regardless of whether I apply all the computing principles to solve problems in scenarios.';
@@ -94,7 +102,7 @@ class DataValues {
   static const String aboutMeBanner = 'You can find my';
   static const String aboutMeBannerTitle = 'public profiles';
   static const String aboutMeBannerWeb =
-      'Visit profile.dileepabandara.dev to find all my public profiles.';
+      'Visit vinaydubey.bitcoin to find all my public profiles.';
 
   // Education
   static const String educationTitle = 'Education';
@@ -194,11 +202,11 @@ class DataValues {
   static const String contactDescription =
       'Hey! I appreciate you looking at my public profile. Please feel free to ask me anything or to discuss anything with me. I\'m happy to chat with and meet new people. Regardless of the fact that I don\'t use social media much, you can find me there. So find me and get in touch with me. Send me an email if you need to discuss anything serious with me. I\'ll get back to you in 12 to 24 hours.';
   static const String contactBanner = 'Send me an email at';
-  static const String contactEmail = 'contact@dileepabandara.dev';
+  static const String contactEmail = 'vinaydevs00@gmail.com';
 
   // Footer
   static const String copyright =
-      "Copyright ©2023 Dileepa Bandara. All Rights Reserved.";
+      "Copyright ©2023 vinaydubey.bitcoin. All Rights Reserved.";
 
   static const String builtWith = "Built with Flutter and GitHub Pages.";
 }

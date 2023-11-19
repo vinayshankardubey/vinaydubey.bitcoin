@@ -138,7 +138,7 @@ class MS2AboutMe extends StatelessWidget {
             const SizedBox(height: 40.0),
             bio(context),
             const SizedBox(height: 40.0),
-            titles(context),
+            // titles(context),
             const SizedBox(height: 80.0),
             Center(
               child: ContainerBanner().type1(

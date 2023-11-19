@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Dileepa Bandara',
+      title: 'Vinay Shankar Dubey',
       debugShowCheckedModeBanner: false,
       theme: AppThemeData.darkTheme,
       home: const HomePage(),
@@ -89,10 +89,10 @@ class _HomePageState extends State<HomePage> {
         children: const [
           DS1Header(),
           DS2AboutMe(),
-          DS3Education(),
-          DS4Experience(),
-          DS5Volunteering(),
-          DS6TechNotes(),
+          // DS3Education(),
+          // DS4Experience(),
+          // DS5Volunteering(),
+          // DS6TechNotes(),
           DS7Contact(),
           DS8Footer(),
         ],
@@ -106,10 +106,10 @@ class _HomePageState extends State<HomePage> {
         children: const [
           MS1Header(),
           MS2AboutMe(),
-          MS3Education(),
-          MS4Experience(),
-          MS5Volunteering(),
-          MS6TechNotes(),
+          // MS3Education(),
+          // MS4Experience(),
+          // MS5Volunteering(),
+          // MS6TechNotes(),
           MS7Contact(),
           MS8Footer(),
         ],

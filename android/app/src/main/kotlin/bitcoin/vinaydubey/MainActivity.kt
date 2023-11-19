@@ -1,4 +1,4 @@
-package dev.dileepabandara.dileepabandara_dev
+package bitcoin.vinaydubey
 
 import io.flutter.embedding.android.FlutterActivity
 
